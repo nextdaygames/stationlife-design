@@ -11,8 +11,6 @@ Why these relationships?
 Does it have sweet spot of interactions?
 ## Parent System
 [[Mining Economy]]
-## Peers
-- 
 ## Children
 - 
 # Player

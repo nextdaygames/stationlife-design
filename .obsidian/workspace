@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "systems/Relatedness Economy.md",
+            "file": "systems/Player Power Braking/Homeostasis Braking/Food/Farming.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "systems/Relatedness Economy.md",
+                "file": "systems/Player Power Braking/Homeostasis Braking/Food/Farming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "systems/Relatedness Economy.md",
+                "file": "systems/Player Power Braking/Homeostasis Braking/Food/Farming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "systems/Relatedness Economy.md"
+                "file": "systems/Player Power Braking/Homeostasis Braking/Food/Farming.md"
               }
             }
           },
@@ -131,23 +131,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b54ef24996e1ee32",
+  "active": "fea9412afcfd7a1b",
   "lastOpenFiles": [
+    "systems/Player Power Braking/Homeostasis Braking/Food/Ranching.md",
+    "systems/Player Ecology/Combat Braking.md",
+    "jobs/Security Officer.md",
+    "systems/Relatedness Economy.md",
     "jobs/Botanist.md",
     "value-chains/Strategy - Grow Cash Crops.md",
     "value-chains/Challenge - Make Crops Grow.md",
     "value-chains/Completion - Grow Every Crop.md",
     "value-chains/Challenge - Revive a Dying Person.md",
-    "jobs/Doctor.md",
-    "jobs/Clown.md",
-    "jobs/Chef.md",
-    "Readme.md",
-    "value-chains/Story - Discover the truth.md"
+    "jobs/Doctor.md"
   ]
 }

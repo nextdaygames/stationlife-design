@@ -1,21 +1,20 @@
 # Goal
-A machine that reduces player power by making them invest in staying alive.
+A machine that makes player power.
 - [x] Boosting
 - [ ] Braking
 - [ ] Economy
 - [ ] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
+![[CoreLoop.excalidraw]]
 # Relationships
 Why these relationships?
 Does it have sweet spot of interactions?
 ## Parent System
 
 ## Children
-- [[Oxygen Production]]
-- [[Food Production]]
-- [[Power Production]]
-- [[Health Recovery]]
+- [[Player Empowerment Engine]]
+- [[Player Ecology]]
 # Player
 ## Value Chains
 - 

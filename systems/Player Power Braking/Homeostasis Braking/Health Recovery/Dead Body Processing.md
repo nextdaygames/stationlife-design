@@ -11,8 +11,6 @@ Why these relationships?
 Does it have sweet spot of interactions?
 ## Parent System
 [[Health Recovery]]
-## Peers
-- 
 ## Children
 - [[Dead Body Reviving]]
 - [[Dead Body Disposal]]
