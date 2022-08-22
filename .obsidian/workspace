@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "a6bf660373ef8b2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb535d1f23b87b28",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "systems/Supplies/Supplies Ecology.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6666746a8c846a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0acce3beb872e92d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17890e736a0cb8d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "380914aedaed622b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e8e6451886a0bd0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7eefb2d014fb453",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7afce455b6de2ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a31ec3a8e635b97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "systems/Supplies/Supplies Ecology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7517f1b4ab665e39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "systems/Supplies/Supplies Ecology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37fcc831ccfbe9fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b54ef24996e1ee32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "systems/Supplies/Supplies Ecology.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "fb535d1f23b87b28",
+  "lastOpenFiles": [
+    "systems/Station Business Ecology.md",
+    "systems/Supplies/Cargo/Cargo Economy.md",
+    "systems/Supplies/Supplies Ecology.md",
+    "systems/Supplies/Exploration/Exploration Engine.md",
+    "systems/Supplies/Exploration/Materials/Mining Engine.md",
+    "systems/Station/Station Repair Balancing Engine.md",
+    "systems/Station/Station Building Economy.md",
+    "systems/Station/Machine Scanning Economy.md",
+    "systems/Supplies/Exploration/Artifact Economy.md",
+    "systems/Player Empowerment/Player Empowerment Engine.md"
+  ]
+}
