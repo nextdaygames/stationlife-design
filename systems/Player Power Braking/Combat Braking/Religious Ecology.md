@@ -3,7 +3,7 @@ A machine that makes X.
 - [ ] Boosting
 - [ ] Braking
 - [ ] Economy
-- [ ] Ecology
+- [x] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
 # Relationships
@@ -14,7 +14,9 @@ Does it have sweet spot of interactions?
 ## Peers
 - 
 ## Children
-- 
+- [[Unholy Antagonists]]
+- [[jobs/Chaplain]]
+- [[traits/Atheist]]
 # Player
 ## Decisions
 - 

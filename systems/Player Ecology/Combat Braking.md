@@ -1,6 +1,6 @@
 # Goal
-A machine that makes X.
-- [ ] Boosting
+A machine that reduces player power by taking away their health.
+- [x] Boosting
 - [ ] Braking
 - [ ] Economy
 - [ ] Ecology
@@ -14,8 +14,13 @@ Does it have sweet spot of interactions?
 ## Peers
 - 
 ## Children
-- 
+- [[Religious Ecology]]
+- [[Department Combat Ecology]]
 # Player
+## Value Chains
+- 
+## Responsible Jobs
+- 
 ## Decisions
 - 
 ## Goals

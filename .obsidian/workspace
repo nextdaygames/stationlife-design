@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Readme.md",
+            "file": "systems/Relatedness Economy.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "systems/Relatedness Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "systems/Relatedness Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,8 +118,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "systems/Relatedness Economy.md"
               }
+            }
+          },
+          {
+            "id": "fea9412afcfd7a1b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -131,15 +139,15 @@
   },
   "active": "b54ef24996e1ee32",
   "lastOpenFiles": [
-    "systems/Supplies/Supplies Ecology.md",
-    "systems/Station Business Ecology.md",
-    "systems/Supplies/Cargo/Cargo Economy.md",
-    "systems/Supplies/Exploration/Exploration Engine.md",
-    "systems/Supplies/Exploration/Materials/Mining Engine.md",
-    "systems/Station/Station Repair Balancing Engine.md",
-    "systems/Station/Station Building Economy.md",
-    "systems/Station/Machine Scanning Economy.md",
-    "systems/Supplies/Exploration/Artifact Economy.md",
-    "systems/Player Empowerment/Player Empowerment Engine.md"
+    "jobs/Botanist.md",
+    "value-chains/Strategy - Grow Cash Crops.md",
+    "value-chains/Challenge - Make Crops Grow.md",
+    "value-chains/Completion - Grow Every Crop.md",
+    "value-chains/Challenge - Revive a Dying Person.md",
+    "jobs/Doctor.md",
+    "jobs/Clown.md",
+    "jobs/Chef.md",
+    "Readme.md",
+    "value-chains/Story - Discover the truth.md"
   ]
 }

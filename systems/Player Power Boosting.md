@@ -1,11 +1,12 @@
 # Goal
-A machine that makes X.
-- [ ] Boosting
+A machine that makes player power.
+- [x] Boosting
 - [ ] Braking
 - [ ] Economy
 - [ ] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
+![[CoreLoop.excalidraw]]
 # Relationships
 Why these relationships?
 Does it have sweet spot of interactions?
@@ -14,8 +15,13 @@ Does it have sweet spot of interactions?
 ## Peers
 - 
 ## Children
+- [[Player Power Braking]]
 - 
 # Player
+## Value Chains
+- 
+## Responsible Jobs
+- 
 ## Decisions
 - 
 ## Goals

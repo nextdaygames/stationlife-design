@@ -14,8 +14,13 @@ Does it have sweet spot of interactions?
 ## Peers
 - 
 ## Children
-- 
+- [[Supplies Engine]]
+- [[Buff Economy]]
 # Player
+## Value Chains
+- 
+## Responsible Jobs
+- 
 ## Decisions
 - 
 ## Goals

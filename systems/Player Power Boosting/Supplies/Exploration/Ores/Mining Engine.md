@@ -1,6 +1,6 @@
 # Goal
-A machine that makes X.
-- [ ] Boosting
+A machine that makes ores.
+- [x] Boosting
 - [ ] Braking
 - [ ] Economy
 - [ ] Ecology
@@ -10,7 +10,7 @@ How does the system maintain itself? What causes it to fail?
 Why these relationships?
 Does it have sweet spot of interactions?
 ## Parent System
-
+[[Mining Economy]]
 ## Peers
 - 
 ## Children

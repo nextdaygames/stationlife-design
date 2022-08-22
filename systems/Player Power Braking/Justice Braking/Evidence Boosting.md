@@ -1,6 +1,6 @@
 # Goal
-A machine that makes X.
-- [ ] Boosting
+A machine that makes evidence.
+- [x] Boosting
 - [ ] Braking
 - [ ] Economy
 - [ ] Ecology
@@ -16,6 +16,11 @@ Does it have sweet spot of interactions?
 ## Children
 - 
 # Player
+## Value Chains
+- [[Story - Discover the truth]]
+## Responsible Jobs
+- [[Private Investigator]]
+- [[Lawyer]]
 ## Decisions
 - 
 ## Goals

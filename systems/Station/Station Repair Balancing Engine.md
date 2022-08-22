@@ -1,8 +1,10 @@
 # Goal
-A machine that makes X to accomplish the game objective Y.
-- [x] Engine
-- [] Economy
-- [] Ecology
+A machine that makes X.
+- [x] Boosting
+- [ ] Braking
+- [ ] Economy
+- [ ] Ecology
+- [ ] Non-System
 How does the system maintain itself? What causes it to fail?
 # Relationships
 Why these relationships?
@@ -19,5 +21,6 @@ Does it have sweet spot of interactions?
 ## Goals
 - 
 ### Actions
-How is feedback received?
+- 
+#### How is feedback received?
 - 

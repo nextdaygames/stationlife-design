@@ -1,8 +1,8 @@
 # Goal
-A machine that makes X.
+A machine that makes powerful artifacts for time.
 - [ ] Boosting
 - [ ] Braking
-- [ ] Economy
+- [x] Economy
 - [ ] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
@@ -16,6 +16,10 @@ Does it have sweet spot of interactions?
 ## Children
 - 
 # Player
+## Value Chains
+- [[Discovery - Figure out an artifact]]
+## Responsible Jobs
+- [[Scientist]]
 ## Decisions
 - 
 ## Goals

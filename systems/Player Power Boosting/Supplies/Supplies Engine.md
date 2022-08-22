@@ -1,6 +1,6 @@
 # Goal
-A machine that makes X.
-- [ ] Boosting
+A machine that makes items and money for time.
+- [x] Boosting
 - [ ] Braking
 - [ ] Economy
 - [ ] Ecology
@@ -14,7 +14,9 @@ Does it have sweet spot of interactions?
 ## Peers
 - 
 ## Children
-- 
+- [[Raw Materials Boosting]]
+- [[Crate Economy]]
+- [[Crafting Engine]]
 # Player
 ## Decisions
 - 

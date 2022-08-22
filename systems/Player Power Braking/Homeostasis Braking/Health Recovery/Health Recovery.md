@@ -10,12 +10,16 @@ How does the system maintain itself? What causes it to fail?
 Why these relationships?
 Does it have sweet spot of interactions?
 ## Parent System
-
+[[Homeostasis Braking]]
 ## Peers
 - 
 ## Children
-- 
+- [[Dead Body Processing]]
 # Player
+## Value Chains
+- 
+## Responsible Jobs
+- [[Doctor]]
 ## Decisions
 - 
 ## Goals

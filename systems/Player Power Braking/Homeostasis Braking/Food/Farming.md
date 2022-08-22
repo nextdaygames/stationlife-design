@@ -12,10 +12,14 @@ Does it have sweet spot of interactions?
 ## Parent System
 
 ## Peers
-- 
+- [[Cooking]]
 ## Children
-- 
+- [[Water Production]]
 # Player
+## Value Chains
+- 
+## Responsible Jobs
+- [[Botanist]]
 ## Decisions
 - 
 ## Goals

@@ -1,6 +1,6 @@
 # Goal
 A machine that makes X.
-- [ ] Boosting
+- [x] Boosting
 - [ ] Braking
 - [ ] Economy
 - [ ] Ecology
@@ -16,6 +16,10 @@ Does it have sweet spot of interactions?
 ## Children
 - 
 # Player
+## Value Chains
+- 
+## Responsible Jobs
+- [[Bartender]]
 ## Decisions
 - 
 ## Goals

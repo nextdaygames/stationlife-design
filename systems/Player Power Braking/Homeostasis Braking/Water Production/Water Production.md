@@ -16,6 +16,10 @@ Does it have sweet spot of interactions?
 ## Children
 - 
 # Player
+## Value Chains
+- 
+## Responsible Jobs
+- [[Engineer]]
 ## Decisions
 - 
 ## Goals

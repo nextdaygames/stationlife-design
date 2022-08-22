@@ -1,8 +1,8 @@
 # Goal
-A machine that makes X.
+A machine that turns ores into money and mining equipment.
 - [ ] Boosting
 - [ ] Braking
-- [ ] Economy
+- [x] Economy
 - [ ] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
@@ -10,14 +10,14 @@ How does the system maintain itself? What causes it to fail?
 Why these relationships?
 Does it have sweet spot of interactions?
 ## Parent System
-
+[[Raw Materials Boosting]]
 ## Peers
 - 
 ## Children
-- 
+- [[Mining Engine]]
 # Player
 ## Decisions
-- 
+- Do I sell the ore I buy or use it to get ore faster?
 ## Goals
 - 
 ### Actions
