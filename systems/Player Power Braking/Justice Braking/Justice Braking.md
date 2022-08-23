@@ -6,9 +6,7 @@ A machine that reduces player power when they are.
 - [ ] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
-# Relationships
-Why these relationships?
-Does it have sweet spot of interactions?
+
 ## Parent System
 [[Player Power Boosting]]
 ## Children

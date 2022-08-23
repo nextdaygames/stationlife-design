@@ -6,9 +6,7 @@ A machine that reduces player power by taking away their health.
 - [ ] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
-# Relationships
-Why these relationships?
-Does it have sweet spot of interactions?
+
 ## Parent System
 
 ## Children

@@ -6,9 +6,7 @@ A machine that makes powerful artifacts for time.
 - [ ] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
-# Relationships
-Why these relationships?
-Does it have sweet spot of interactions?
+
 ## Parent System
 
 ## Children

@@ -1,23 +1,21 @@
 # Goal
-A machine that makes X.
-- [x] Boosting
-- [ ] Braking
+A machine that makes reduces player power acquisition efficiency by requiring them to invest in eating.
+- [ ] Boosting
+- [x] Braking
 - [ ] Economy
 - [ ] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
-# Relationships
-Why these relationships?
-Does it have sweet spot of interactions?
-## Parent System
 
+## Parent System
+[[Player Power Braking]]
 ## Children
-- 
+- [[Meal Economy]]
 # Player
 ## Value Chains
 - 
 ## Responsible Jobs
-- [[Bartender]]
+- 
 ## Decisions
 - 
 ## Goals

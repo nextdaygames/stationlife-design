@@ -6,15 +6,13 @@ A machine that reduces player power by making them invest in staying alive.
 - [ ] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
-# Relationships
-Why these relationships?
-Does it have sweet spot of interactions?
-## Parent System
 
+## Parent System
+[[Player Power Braking]]
 ## Children
-- [[Oxygen Production]]
-- [[Food Production]]
-- [[Power Production]]
+- [[Oxygen Braking]]
+- [[Meal Economy]]
+- [[Power Braking]]
 - [[Health Recovery]]
 # Player
 ## Value Chains

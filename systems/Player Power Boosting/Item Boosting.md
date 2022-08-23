@@ -1,19 +1,22 @@
 # Goal
-A machine that makes X.
+A machine that makes items using items.
 - [x] Boosting
 - [ ] Braking
 - [ ] Economy
 - [ ] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
-# Relationships
-Why these relationships?
-Does it have sweet spot of interactions?
-## Parent System
 
+## Parent System
+[[Player Power Boosting]]
 ## Children
-- 
+- [[Supplies Economy]]
+- [[Crafting Economy]]
 # Player
+## Value Chains
+- 
+## Responsible Jobs
+- 
 ## Decisions
 - 
 ## Goals

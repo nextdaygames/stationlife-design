@@ -1,18 +1,17 @@
 # Goal
-A machine that makes X.
+A machine that makes items and money to accomplish the game objective of power.
 - [ ] Boosting
 - [ ] Braking
-- [ ] Economy
+- [x] Economy
 - [ ] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
-# Relationships
-Why these relationships?
-Does it have sweet spot of interactions?
+![[CraftingEngine.excalidraw]]
+
 ## Parent System
 
 ## Children
-- 
+- [[Supplies Economy]]
 # Player
 ## Decisions
 - 

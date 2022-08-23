@@ -6,19 +6,16 @@ A machine that makes X.
 - [ ] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
-# Relationships
-Why these relationships?
-Does it have sweet spot of interactions?
+
 ## Parent System
 
 ## Children
-- [[Supplies Engine]]
-- [[Buff Economy]]
+- 
 # Player
 ## Value Chains
 - 
 ## Responsible Jobs
-- 
+- [[Engineer]]
 ## Decisions
 - 
 ## Goals

@@ -7,14 +7,13 @@ A machine that makes player power.
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
 ![[CoreLoop.excalidraw]]
-# Relationships
-Why these relationships?
-Does it have sweet spot of interactions?
+
 ## Parent System
 
 ## Children
 - [[Player Power Braking]]
-- 
+- [[Buff Economy]]
+- [[Item Boosting]]
 # Player
 ## Value Chains
 - 

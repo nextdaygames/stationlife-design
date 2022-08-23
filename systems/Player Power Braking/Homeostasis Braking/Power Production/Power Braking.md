@@ -1,21 +1,21 @@
 # Goal
-A machine that makes items and money.
-- [x] Boosting
+A machine that makes slows player power acquisition since most machines require power.
+- [ ] Boosting
 - [ ] Braking
 - [ ] Economy
 - [ ] Ecology
 - [ ] Non-System
 How does the system maintain itself? What causes it to fail?
-# Relationships
-Why these relationships?
-Does it have sweet spot of interactions?
-## Parent System
 
+## Parent System
+[[Homeostasis Braking]]
 ## Children
-- [[Raw Materials Boosting]]
-- [[Crate Economy]]
-- [[Crafting Engine]]
+- 
 # Player
+## Value Chains
+- 
+## Responsible Jobs
+- [[Engineer]]
 ## Decisions
 - 
 ## Goals

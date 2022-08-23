@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 D Food Consumption ^TjoryhZ3
 
-[[Farming]] ^YJOMlKPx
+[[Farming Economy]] ^YJOMlKPx
 
 [[Cooking]] ^BeXeIGPj
 

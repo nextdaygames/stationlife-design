@@ -1,5 +1,5 @@
 ## Responsible for Systems
-- [[Farming]]
+- [[Farming Economy]]
 ## Value Chains
 - [[Completion - Grow Every Crop]]
 - [[Challenge - Make Crops Grow]]
