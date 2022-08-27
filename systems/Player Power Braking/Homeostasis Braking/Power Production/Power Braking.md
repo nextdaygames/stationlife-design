@@ -1,24 +1,15 @@
-# Goal
-A machine that makes slows player power acquisition since most machines require power.
-- [ ] Boosting
-- [ ] Braking
-- [ ] Economy
-- [ ] Ecology
-- [ ] Non-System
-How does the system maintain itself? What causes it to fail?
-
+A machine that reduces the amount of free time a user has by devoting some of it to power production. 
 ## Parent System
 [[Homeostasis Braking]]
 ## Children
 - 
-# Player
 ## Value Chains
 - 
-## Responsible Jobs
-- [[Engineer]]
-## Decisions
+### Responsible Jobs
 - 
 ## Goals
+- 
+### Decisions
 - 
 ### Actions
 - 

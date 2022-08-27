@@ -14,6 +14,7 @@ How does the system maintain itself? What causes it to fail?
 - [[systems/Player Power Braking/Combat Braking/Combat Braking]]
 - [[Justice Braking]]
 - [[Station Damage Braking]]
+- [[Technology Braking]]
 # Player
 ## Value Chains
 - 

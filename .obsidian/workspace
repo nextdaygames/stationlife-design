@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "systems/Relatedness Economy.md",
+            "file": "systems/Player Power Braking/Homeostasis Braking/Health Recovery/Body Retrieval.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "14e73a2cd2612cf4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Readme.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 448.5
   },
   "right": {
     "id": "f7eefb2d014fb453",
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "systems/Relatedness Economy.md",
+                "file": "systems/Player Power Braking/Homeostasis Braking/Health Recovery/Body Retrieval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "systems/Relatedness Economy.md",
+                "file": "systems/Player Power Braking/Homeostasis Braking/Health Recovery/Body Retrieval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "systems/Relatedness Economy.md"
+                "file": "systems/Player Power Braking/Homeostasis Braking/Health Recovery/Body Retrieval.md"
               }
             }
           },
@@ -130,23 +143,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "17890e736a0cb8d3",
+  "active": "fea9412afcfd7a1b",
   "lastOpenFiles": [
-    "systems/Player Power Boosting.md",
-    "systems/Player Power Boosting/Supplies/Crafting Economy.md",
-    "systems/Player Power Braking/Justice Braking/Evidence Boosting.md",
-    "systems/Player Power Braking/Player Power Braking.md",
-    "systems/Player Ecology/Combat Balancing Engine/Combat Balancing Engine.md",
-    "systems/Player Power Boosting/Station Building/Station Building Economy.md",
-    "systems/Player Power Braking/Station Damage Braking.md",
-    "systems/Player Power Boosting/Station Building/Blueprint Economy.md",
-    "systems/Player Power Engine.md",
-    "systems/Relatedness Economy.md"
+    "systems/Player Power Braking/Homeostasis Braking/Health Recovery/Dead Body Processing.md",
+    "systems/Player Power Braking/Homeostasis Braking/Health Recovery/Dead Body Disposal.md",
+    "systems/Player Power Braking/Homeostasis Braking/Health Recovery/Dead Body Reviving.md",
+    "systems/Player Power Braking/Homeostasis Braking/Health Recovery/Body Retrieval.md",
+    "systems/Player Power Braking/Homeostasis Braking/Health Recovery/Health Recovery.md",
+    "jobs/Doctor.md",
+    "jobs/Engineer.md",
+    "jobs/Quartermaster.md",
+    "systems/Player Power Braking/Homeostasis Braking/Power Production/Power Economy.md",
+    "systems/Player Power Braking/Homeostasis Braking/Oxygen Production/Oxygen Braking.md"
   ]
 }

@@ -8,13 +8,14 @@ A machine that makes meat and eggs.
 How does the system maintain itself? What causes it to fail?
 
 ## Parent System
-[[Meal Economy]]
+[[Raw Food Boosting]]
 
 ## Children
-- 
+- [[Farming Economy]]
 # Player
 ## Value Chains
-- 
+- [[Fantasy - Be a cowboy]]
+- [[Completion - Breed every kind of chicken and slime]]
 ## Responsible Jobs
 - [[Rancher]]
 ## Decisions

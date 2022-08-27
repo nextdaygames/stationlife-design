@@ -1,11 +1,5 @@
 # Goal
-A machine that makes meals by trading time.
-- [ ] Boosting
-- [ ] Braking
-- [x] Economy
-- [ ] Ecology
-- [ ] Non-System
-How does the system maintain itself? What causes it to fail?
+A machine that makes meals and drinks by trading time.
 # Relationships
 ![[FoodProduction.excalidraw]]
 Why these relationships?
@@ -14,8 +8,8 @@ Does it have sweet spot of interactions?
 [[Hunger Braking]]
 
 ## Children
-- [[Cooking]]
-- [[Energy Drink Mixing]]
+- [[Cooking Economy]]
+- [[Energy Drink Economy]]
 - [[Raw Food Boosting]]
 # Player
 ## Value Chains

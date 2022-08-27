@@ -12,6 +12,7 @@ How does the system maintain itself? What causes it to fail?
 ## Children
 - [[Dead Body Reviving]]
 - [[Dead Body Disposal]]
+- [[Body Retrieval]]
 # Player
 ## Value Chains
 - 

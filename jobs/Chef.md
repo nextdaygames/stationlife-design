@@ -1,7 +1,8 @@
 ## Responsible for Systems
-- [[Cooking]]
+- [[Cooking Economy]]
 ## Value Chains
-- [[Design - Delicious Meal]]
+- [[Design - Create a Delicious Meal]]
 - [[Challenge - Keep a Clean Workstation]]
 - [[Challenge - Master the Menu]]
 - [[Community - Feed the Station]]
+- [[value-chains/Destruction - Deep fry important items]]

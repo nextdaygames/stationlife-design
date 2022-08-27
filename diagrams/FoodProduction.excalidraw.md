@@ -12,7 +12,7 @@ D Food Consumption ^TjoryhZ3
 
 [[Farming Economy]] ^YJOMlKPx
 
-[[Cooking]] ^BeXeIGPj
+[[Cooking Economy]] ^BeXeIGPj
 
 S Seeds ^v2aBneTT
 

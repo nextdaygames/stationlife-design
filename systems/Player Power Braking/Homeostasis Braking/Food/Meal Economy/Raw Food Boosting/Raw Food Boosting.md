@@ -8,9 +8,10 @@ A machine that turns raw food into more raw food.
 How does the system maintain itself? What causes it to fail?
 
 ## Parent System
-
+[[Cooking Economy]]
 ## Children
-- 
+- [[Meat Boosting]]
+- [[Farming Economy]]
 # Player
 ## Value Chains
 - 
