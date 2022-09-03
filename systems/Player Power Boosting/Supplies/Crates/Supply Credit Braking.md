@@ -1,6 +1,6 @@
-A machine that reduces the amount of dead bodies. 
+A machine that reduces the amount of crates you can buy. 
 ## Parent System
-
+[[Crate Economy]]
 ## Children
 - 
 ## Value Chains

@@ -2,7 +2,7 @@
 - 
 ## Value Chains
 - [[value-chains/Power - Get the best mining gear]]
-- [[value-chains/Excitement - Defeat aliens in the minefields]]
+- [[Excitement - Defeat aliens in the asteroidfields]]
 - [[value-chains/Destruction - Make giant mining explosions]]
 - [[value-chains/Community - Defend the station from alien threats]]
 - [[value-chains/Completion - Collect all the materials]]

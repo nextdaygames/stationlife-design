@@ -14,6 +14,8 @@ Player Power ^mTlcafCw
 
 [[Player Power Braking]] ^4laJ5qce
 
+[[Slime Breeding Economy]] ^Vq6RDVZg
+
 %%
 # Drawing
 ```json
@@ -38,7 +40,7 @@ Player Power ^mTlcafCw
 			"y": 79.16666666666669,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 329,
+			"width": 517,
 			"height": 29,
 			"seed": 164394430,
 			"groupIds": [],
@@ -50,17 +52,17 @@ Player Power ^mTlcafCw
 				}
 			],
 			"updated": 1661198780056,
-			"link": "[[Player Empowerment Engine]]",
+			"link": "[[Player Power Boosting/Player Power Boosting]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "📍[[Player Empowerment Engine]]",
+			"text": "📍[[Player Power Boosting/Player Power Boosting]]",
 			"rawText": "[[Player Empowerment Engine]]",
 			"baseline": 22,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "📍[[Player Empowerment Engine]]"
+			"originalText": "📍[[Player Power Boosting/Player Power Boosting]]"
 		},
 		{
 			"type": "text",
@@ -312,7 +314,7 @@ Player Power ^mTlcafCw
 			"y": 204.99396342605874,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 209,
+			"width": 275,
 			"height": 29,
 			"seed": 1611856738,
 			"groupIds": [],
@@ -324,17 +326,17 @@ Player Power ^mTlcafCw
 				}
 			],
 			"updated": 1661198831584,
-			"link": "[[Player Ecology]]",
+			"link": "[[Player Power Braking]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "📍[[Player Ecology]]",
+			"text": "📍[[Player Power Braking]]",
 			"rawText": "[[Player Ecology]]",
 			"baseline": 22,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "📍[[Player Ecology]]"
+			"originalText": "📍[[Player Power Braking]]"
 		},
 		{
 			"type": "arrow",
@@ -516,6 +518,76 @@ Player Power ^mTlcafCw
 			"lastCommittedPoint": null,
 			"simulatePressure": true,
 			"pressures": []
+		},
+		{
+			"id": "Vq6RDVZg",
+			"type": "text",
+			"x": -161.08838383838375,
+			"y": 267.06593389803817,
+			"width": 291,
+			"height": 29,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 810461366,
+			"version": 31,
+			"versionNonce": 1782209398,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1662100045358,
+			"link": "[[Slime Breeding Economy]]",
+			"locked": false,
+			"text": "📍[[Slime Breeding Economy]]",
+			"rawText": "[[Slime Breeding Economy]]",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 22,
+			"containerId": null,
+			"originalText": "📍[[Slime Breeding Economy]]"
+		},
+		{
+			"id": "z8W99nAW6Bqvxb0RszQQH",
+			"type": "text",
+			"x": -161.08838383838375,
+			"y": 267.06593389803817,
+			"width": 11,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 292900086,
+			"version": 3,
+			"versionNonce": 1114390070,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1662100035469,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": ""
 		}
 	],
 	"appState": {

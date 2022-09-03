@@ -1,10 +1,5 @@
 # Goal
 A machine that makes player buffs by trading their power.
-- [ ] Boosting
-- [ ] Braking
-- [x] Economy
-- [ ] Ecology
-- [ ] Non-System
 How does the system maintain itself? What causes it to fail?
 
 ## Parent System

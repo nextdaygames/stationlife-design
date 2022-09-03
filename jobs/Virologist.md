@@ -1,7 +1,6 @@
 ## Responsible for Systems
 - [[systems/Virus Economy]]
 - [[systems/Illness Braking]]
-- 
 ## Value Chains
 - [[value-chains/Discovery - Tinker with diseases]]
 - [[value-chains/Completion - Create a vaccine for a disease]]

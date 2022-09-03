@@ -8,3 +8,11 @@
 - No competition motivations
 - Systems only get created if they are used in two spokes
 - Every job needs a way to go violent
+
+# Primary Experiences
+- [[Community - Feed the Station]]
+- [[Excitement - Defeat the Antagonists]]
+- [[Community - Defend the station from alien threats]]
+- [[Community - Defend the innocent]]
+- [[Strategy - Keep the station running]]
+- [[Strategy - Sell items to meet the cash goal for the station]]
