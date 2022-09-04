@@ -1,3 +1,4 @@
+#incomplete-system
 A machine that reduces the amount of X. 
 ## Parent System
 
@@ -6,12 +7,6 @@ A machine that reduces the amount of X.
 ## Value Chains
 - 
 ### Responsible Jobs
-- 
-## Goals
-- 
-### Decisions
-- 
-### Actions
-- 
-#### How is feedback received?
+-
+## Game Systems
 - 

@@ -1,3 +1,4 @@
+#incomplete-system
 A machine that balances the reinforcing states of its children. 
 ## Parent System
 
@@ -6,12 +7,6 @@ A machine that balances the reinforcing states of its children.
 ## Value Chains
 - 
 ### Responsible Jobs
-- 
-## Goals
-- 
-### Decisions
-- 
-### Actions
-- 
-#### How is feedback received?
+-
+## Game Systems
 - 
