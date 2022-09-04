@@ -6,12 +6,4 @@ A machine that makes station rooms using blueprints to create additional workspa
 ## Value Chains
 - 
 ### Responsible Jobs
-- 
-## Goals
-- 
-### Decisions
-- 
-### Actions
-- 
-#### How is feedback received?
-- 
+-

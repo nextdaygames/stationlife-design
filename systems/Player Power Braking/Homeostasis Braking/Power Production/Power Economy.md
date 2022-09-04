@@ -7,11 +7,6 @@ A machine that makes power by exchanging it with uranium for a non-linear gain o
 - [[Strategy - Keep the nuclear power plant running safely]]
 ### Responsible Jobs
 - [[Engineer]]
-## Goals
-- 
-### Decisions
-- Do I use X or trade it for Y.
-### Actions
-- 
-#### How is feedback received?
-- 
+
+
+

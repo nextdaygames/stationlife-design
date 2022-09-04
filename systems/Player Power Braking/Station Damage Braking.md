@@ -6,12 +6,4 @@ A machine that reduces the ways a player can spend their power by reducing the a
 ## Value Chains
 - 
 ### Responsible Jobs
-- 
-## Goals
-- 
-### Decisions
-- 
-### Actions
-- 
-#### How is feedback received?
-- 
+-

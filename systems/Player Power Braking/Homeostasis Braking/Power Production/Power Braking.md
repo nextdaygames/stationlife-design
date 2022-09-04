@@ -6,12 +6,4 @@ A machine that reduces the amount of free time a user has by devoting some of it
 ## Value Chains
 - 
 ### Responsible Jobs
-- 
-## Goals
-- 
-### Decisions
-- 
-### Actions
-- 
-#### How is feedback received?
-- 
+-

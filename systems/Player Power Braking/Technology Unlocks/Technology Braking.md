@@ -6,12 +6,4 @@ A machine that reduces the amount of things you can craft and create by gating i
 ## Value Chains
 - [[value-chains/Completion - Unlock all the techs]]
 ### Responsible Jobs
-- 
-## Goals
-- 
-### Decisions
-- 
-### Actions
-- 
-#### How is feedback received?
-- 
+- [[Scientist]]

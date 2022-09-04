@@ -7,11 +7,6 @@ A machine that makes research points by exchanging it with heat and computer par
 - [[Strategy - Keep the server room cool and efficient]]
 ### Responsible Jobs
 - [[Scientist]]
-## Goals
-- 
-### Decisions
-- Do I use X or trade it for Y.
-### Actions
-- 
-#### How is feedback received?
-- 
+
+
+

@@ -11,16 +11,8 @@ Does it have sweet spot of interactions?
 - [[Cooking Economy]]
 - [[Energy Drink Economy]]
 - [[Raw Food Boosting]]
-# Player
+
 ## Value Chains
 - 
 ## Responsible Jobs
-- 
-## Decisions
-- 
-## Goals
-- 
-### Actions
-- 
-#### How is feedback received?
-- 
+-

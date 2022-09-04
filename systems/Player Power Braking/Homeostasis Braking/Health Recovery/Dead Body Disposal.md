@@ -6,12 +6,4 @@ A machine that reduces the amount of dead bodies.
 ## Value Chains
 - 
 ### Responsible Jobs
-- 
-## Goals
-- 
-### Decisions
-- 
-### Actions
-- 
-#### How is feedback received?
-- 
+-

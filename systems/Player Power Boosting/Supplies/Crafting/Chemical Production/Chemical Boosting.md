@@ -6,12 +6,4 @@ A machine that makes chemicals. The player either reinvests base chemicals to ma
 ## Value Chains
 - 
 ### Responsible Jobs
-- 
-## Goals
-- 
-### Decisions
-- Do I reinvest X or spend it on Y.
-### Actions
-- 
-#### How is feedback received?
-- 
+-

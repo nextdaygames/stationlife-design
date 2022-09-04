@@ -1,22 +1,13 @@
 # Goal
-A machine that makes player buffs by trading their power.
-How does the system maintain itself? What causes it to fail?
-
-## Parent System
+A machine that makes player buffs by trading their power.## Parent System
 [[Player Power Boosting]]
 ## Children
-- 
-# Player
+- [[Virus Economy]]
 ## Value Chains
-- 
+- [[Power - Unlock genetic potential]]
+- [[Power - Augment yourself with cybernetics]]
+- [[Challenge - Create a beneficial virus]]
 ## Responsible Jobs
 - [[Geneticist]]
 - [[Roboticist]]
-## Decisions
-- 
-## Goals
-- 
-### Actions
-- 
-#### How is feedback received?
-- 
+

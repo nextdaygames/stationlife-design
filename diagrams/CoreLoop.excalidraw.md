@@ -8,7 +8,7 @@ tags: [excalidraw]
 
 
 # Text Elements
-[[Player Power Boosting/Player Power Boosting]] ^XgJmDt3d
+[[Player Power Boosting]] ^XgJmDt3d
 
 Player Power ^mTlcafCw
 

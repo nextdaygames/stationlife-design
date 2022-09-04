@@ -7,8 +7,13 @@
         "id": "93bbe7749b3a2304",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "systems/Player Power Boosting/Item Boosting.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#incomplete-job",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "systems/Player Power Boosting/Item Boosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "systems/Player Power Boosting/Item Boosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,35 +117,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "fea9412afcfd7a1b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {
+                "file": "systems/Player Power Boosting/Item Boosting.md"
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "17890e736a0cb8d3",
+  "active": "93bbe7749b3a2304",
   "lastOpenFiles": [
-    "systems/MIssing food article.md",
-    "systems/Bitcoin Mining Money Economy.md",
-    "jobs/Scientist.md",
-    "Readme.md",
-    "templates/03 - Ecology.md",
-    "value-chains/Discovery - Discover what the asteroid holds.md",
-    "value-chains/Discovery - Figure out an artifact.md",
-    "value-chains/Discovery - Tinker with better machine setups.md",
-    "value-chains/Discovery - Tinker with diseases.md",
-    "value-chains/Fantasy - Be a cowboy.md"
+    "systems/Player Power Boosting.md",
+    "systems/Player Power Braking/Player Power Braking.md",
+    "systems/Relatedness Economy.md",
+    "systems/Player Power Braking/Station Damage Braking.md",
+    "game-features/Traits.md",
+    "game-features/Breeding/Reproduction and mutation.md",
+    "game-features/Building/Building Machinery.md",
+    "game-features/Building/Blueprint scanning.md",
+    "game-features/Chemistry/Chemical Mixing.md",
+    "game-features/Chemistry/Chemical Contents.md"
   ]
 }

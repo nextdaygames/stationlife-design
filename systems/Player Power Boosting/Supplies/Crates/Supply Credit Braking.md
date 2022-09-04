@@ -6,12 +6,4 @@ A machine that reduces the amount of crates you can buy.
 ## Value Chains
 - 
 ### Responsible Jobs
-- 
-## Goals
-- 
-### Decisions
-- 
-### Actions
-- 
-#### How is feedback received?
-- 
+-

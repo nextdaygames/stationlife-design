@@ -1,5 +1,6 @@
+#incomplete-job
 ## Responsible for Systems
-- 
+- [[Mining Economy]]
 ## Value Chains
 - [[value-chains/Power - Get the best mining gear]]
 - [[Excitement - Defeat aliens in the asteroidfields]]
@@ -8,3 +9,4 @@
 - [[value-chains/Completion - Collect all the materials]]
 - [[value-chains/Strategy - Make money selling materials]]
 - [[value-chains/Discovery - Discover what the asteroid holds]]
+- [[Discovery - Find artifacts in the ruins]]

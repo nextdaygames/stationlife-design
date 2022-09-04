@@ -1,12 +1,5 @@
 # Goal
 A machine that makes reduces player power by requiring that the player spend items and resources overcoming their own needs and others.
-- [ ] Boosting
-- [x] Braking
-- [ ] Economy
-- [ ] Ecology
-- [ ] Non-System
-How does the system maintain itself? What causes it to fail?
-
 ## Parent System
 [[Player Power Boosting]]
 ## Children
@@ -15,16 +8,8 @@ How does the system maintain itself? What causes it to fail?
 - [[Justice Braking]]
 - [[Station Damage Braking]]
 - [[Technology Braking]]
-# Player
+
 ## Value Chains
 - 
 ## Responsible Jobs
-- 
-## Decisions
-- 
-## Goals
-- 
-### Actions
-- 
-#### How is feedback received?
-- 
+-
