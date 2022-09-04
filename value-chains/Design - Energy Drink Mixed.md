@@ -1,4 +1,3 @@
-# Steps
 1. Source Guarana Seeds, Sugar Seeds, Bull Horn
 2. Source Carbonated Water
 3. *Grow* (-seeds, plant pot) -> Guarana and Sugarcane
