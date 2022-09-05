@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "systems/Player Power Boosting/Item Boosting.md",
+            "file": "systems/Player Power Boosting/Supplies/Supplies Economy.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#incomplete-job",
+                "query": "bitcoin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "systems/Player Power Boosting/Item Boosting.md",
+                "file": "systems/Player Power Boosting/Supplies/Supplies Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "systems/Player Power Boosting/Item Boosting.md",
+                "file": "systems/Player Power Boosting/Supplies/Supplies Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "systems/Player Power Boosting/Item Boosting.md"
+                "file": "systems/Player Power Boosting/Supplies/Supplies Economy.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "93bbe7749b3a2304",
   "lastOpenFiles": [
+    "systems/Player Power Boosting/Supplies/Cash Ecology.md",
+    "systems/Player Power Boosting/Supplies/Crates/Crate Economy.md",
+    "systems/Player Power Boosting/Supplies/Supplies Economy.md",
+    "systems/Player Power Boosting/Item Boosting.md",
+    "systems/Player Power Braking/Cash Braking/Bitcoin Mining Money Economy.md",
+    "systems/Player Power Braking/Cash Braking/Cash Braking.md",
     "systems/Player Power Boosting.md",
     "systems/Player Power Braking/Player Power Braking.md",
     "systems/Relatedness Economy.md",
-    "systems/Player Power Braking/Station Damage Braking.md",
-    "game-features/Traits.md",
-    "game-features/Breeding/Reproduction and mutation.md",
-    "game-features/Building/Building Machinery.md",
-    "game-features/Building/Blueprint scanning.md",
-    "game-features/Chemistry/Chemical Mixing.md",
-    "game-features/Chemistry/Chemical Contents.md"
+    "systems/Player Power Braking/Station Damage Braking.md"
   ]
 }

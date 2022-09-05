@@ -1,9 +1,9 @@
 #incomplete-system
-A machine that balances the reinforcing states of its children. 
+A machine that reduces the amount of X. 
 ## Parent System
 
 ## Children
-- 
+- [[Bitcoin Mining Money Economy]]
 ## Value Chains
 - 
 ### Responsible Jobs
