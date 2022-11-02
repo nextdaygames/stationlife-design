@@ -4,17 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "93bbe7749b3a2304",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "game-features/Traits.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "119e7840385c56ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93bbe7749b3a2304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "game-features/Traits.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25c7f8ec1f27140b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "game-features/Random component from selection component.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cacb3a5ae2d0a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "systems/2022-11-01.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -32,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -78,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game-features/Traits.md",
+                "file": "systems/2022-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game-features/Traits.md",
+                "file": "systems/2022-11-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game-features/Traits.md"
+                "file": "systems/2022-11-01.md"
               }
             }
           }
@@ -129,17 +164,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "93bbe7749b3a2304",
+  "active": "2cacb3a5ae2d0a89",
   "lastOpenFiles": [
-    "game-features/Space Gravityless, oxygenless.md",
-    "game-features/Random component from selection component.md",
-    "game-features/Objectives.md",
-    "game-features/Meteor spawning.md",
-    "game-features/Job Reassignment.md",
-    "game-features/Mess.md",
-    "game-features/Life Sign Tracking.md",
+    "jobs/Chaplain.md",
+    "jobs/Captain.md",
+    "jobs/Botanist.md",
+    "jobs/Bartender.md",
+    "jobs/Artifact Researcher.md",
+    "jobs/Antagonist.md",
     "game-features/Chemistry/Chemical Mixing.md",
     "game-features/Chemistry/Chemical Contents.md",
-    "game-features/Traits.md"
+    "game-features/Cash/Station Cash System.md",
+    "game-features/Cash/Personal Cash system.md"
   ]
 }
