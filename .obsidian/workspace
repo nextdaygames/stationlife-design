@@ -7,13 +7,8 @@
         "id": "93bbe7749b3a2304",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "game-features/Traits.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -62,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 760.5
   },
   "right": {
     "id": "f7eefb2d014fb453",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game-features/Traits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game-features/Traits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "game-features/Traits.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -131,15 +122,15 @@
   },
   "active": "93bbe7749b3a2304",
   "lastOpenFiles": [
-    "game-features/Space Gravityless, oxygenless.md",
-    "game-features/Random component from selection component.md",
-    "game-features/Objectives.md",
-    "game-features/Meteor spawning.md",
-    "game-features/Job Reassignment.md",
-    "game-features/Mess.md",
-    "game-features/Life Sign Tracking.md",
-    "game-features/Chemistry/Chemical Mixing.md",
-    "game-features/Chemistry/Chemical Contents.md",
-    "game-features/Traits.md"
+    "systems/Player Power Boosting/Supplies/Supplies Economy.md",
+    "systems/Player Power Boosting.md",
+    "systems/Player Power Boosting/Supplies/Clothing Production/Clothing Economy.md",
+    "systems/Player Power Boosting/Slime Ranching/Slime Extract Economy.md",
+    "systems/Player Power Boosting/Buff Economy.md",
+    "systems/Player Power Boosting/Item Boosting.md",
+    "systems/Relatedness Economy.md",
+    "systems/Player Power Boosting/Slime Ranching/Slime Breeding Economy.md",
+    "required-chunks/UI Documents.md",
+    "game-features/Job Reassignment.md"
   ]
 }
